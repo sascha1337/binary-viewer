@@ -9,7 +9,7 @@ This shows a hexadecimal dump of a binary file with side preview. It is pretty s
 1. Open a binary file in your Visual Studio Code
 2. Press `F1` or `Ctrl+P` to open the Command Palette and and type `create a hexadecimal dump of the file`
 
-\!\[Binary Viewer Features\]\(resources/binary-viewer-features.png\)
+![Binary Viewer Features](resources/binary-viewer-features.png)
 
 ## Release Notes
 
