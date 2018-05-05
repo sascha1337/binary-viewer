@@ -40,6 +40,7 @@
         "@types/mocha": "^2.2.42"
     },
     "license": "SEE LICENSE IN LICENSE.txt",
+    "icon": "resources/icon.png",
     "homepage": "https://github.com/momoto/binary-viewer",
     "bugs": {
         "url": "https://github.com/momoto/binary-viewer/issues",
