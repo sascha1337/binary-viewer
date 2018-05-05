@@ -13,10 +13,11 @@ This shows a hexadecimal dump of a binary file with side preview. It is pretty s
 
 ## Release Notes
 
-Please see release notes in CHANGELOG.md
+Please see [CHANGELOG.md](https://marketplace.visualstudio.com/items/momoto.binary-viewer/changelog).
 
 -----------------------------------------------------------------------------------------------------------
 
 ### For more information
 
+* [Binary Viewer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=momoto.binary-viewer)
 * [github.com/momoto/binary-viewer](https://github.com/momoto/binary-viewer)
