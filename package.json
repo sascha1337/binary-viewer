@@ -32,12 +32,15 @@
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "npm run compile && node ./node_modules/vscode/bin/test"
     },
+    "dependencies": {
+        "minimist": ">=0.2.1"
+    },
     "devDependencies": {
-        "typescript": "^3.7.2",
-        "vscode": "^1.1.36",
+        "@types/mocha": "^5.2.7",
+        "@types/node": "^12.12.36",
         "tslint": "^5.20.1",
-        "@types/node": "^12.12.7",
-        "@types/mocha": "^5.2.7"
+        "typescript": "^3.8.3",
+        "vscode": "^1.1.36"
     },
     "license": "SEE LICENSE IN LICENSE.txt",
     "icon": "resources/icon.png",
